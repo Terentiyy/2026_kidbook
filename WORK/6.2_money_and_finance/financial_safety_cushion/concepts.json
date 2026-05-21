@@ -1,0 +1,40 @@
+[{
+  "section": "6.2_money_and_finance",
+  "topic": "Финансовая подушка безопасности",
+  "author_group": "Команда 6666",
+  "members": [
+    "Кутугин Даниил"
+  ],
+  "concepts": [
+    {
+      "id": "6.2_money_and_finance/financial_safety_cushion/what_is_emergency_fund",
+      "name": "Что такое финансовая подушка безопасности",
+      "description": "О резервном фонде, его отличии от накоплений на цель и ситуациях, в которых он действительно нужен.",
+      "lemmas": ["финансовая подушка безопасности", "резервный фонд", "непредвиденные расходы", "запас денег", "накопления"],
+      "file": "WEB/6.2_money_and_finance/financial_safety_cushion/articles/what_is_emergency_fund.md",
+      "wikidata_id": "Q1127086",
+      "author": "Кутугин Даниил",
+      "article_llm": "Codex"
+    },
+    {
+      "id": "6.2_money_and_finance/financial_safety_cushion/how_much_and_where",
+      "name": "Сколько денег должно быть в резерве и где их хранить",
+      "description": "О расчёте размера подушки безопасности, обязательных расходах и подходящих местах хранения резерва.",
+      "lemmas": ["размер подушки безопасности", "ликвидность", "обязательные расходы", "банковский счёт", "накопительный счёт"],
+      "file": "WEB/6.2_money_and_finance/financial_safety_cushion/articles/how_much_and_where.md",
+      "wikidata_id": "Q1127086",
+      "author": "Кутугин Даниил",
+      "article_llm": "Codex"
+    },
+    {
+      "id": "6.2_money_and_finance/financial_safety_cushion/how_to_build",
+      "name": "Как собрать подушку безопасности и не потратить её случайно",
+      "description": "О пошаговом создании резервного фонда, правиле \"сначала заплати себе\" и защите подушки от импульсивных трат.",
+      "lemmas": ["как копить", "сначала заплати себе", "финансовая дисциплина", "резерв", "импульсивные покупки"],
+      "file": "WEB/6.2_money_and_finance/financial_safety_cushion/articles/how_to_build.md",
+      "wikidata_id": "Q1127086",
+      "author": "Кутугин Даниил",
+      "article_llm": "Codex"
+    }
+  ]
+}]
