@@ -1,0 +1,112 @@
+# [Ассоциации](../../../1.2_natural_sciences/neurobiology_for_teens/articles/18_music_chills.md)
+
+Почему иногда странная или смешная картинка [запоминается](zapominanie.md) лучше, чем целый абзац текста? Всё дело в ассоциациях — они помогают мозгу связывать новую информацию с уже знакомой. Благодаря этому [запоминать](zapominanie.md) становится легче и интереснее.
+
+## Что это такое
+
+Ассоциации — это **связи между новыми знаниями и тем, что ты уже знаешь или можешь представить**.
+
+Например:
+- слово напоминает картинку;
+- новая тема связывается с известной; 
+- [факт](../../1.2_natural_sciences/why_science_help_understand_world/science.md) вызывает [образ](../../../7.2 Media, leisure and hobbies/Computer games/articles/game_culture/cosplay.md) или историю.
+
+Ассоциации помогают мозгу быстрее находить информацию в [памяти](./pamyat.md) и делают [процесс](../../../5.1_technology_and_digital_literacy/operating system/articles/process.md) обучения более естественным.
+
+## Почему это важно
+
+Когда ты просто заучиваешь [материал](../../../1.2_natural_sciences/physics_in_everyday_life/Q25358.md), он может быстро забыться. А если ты связываешь его с чем-то знакомым, он закрепляется лучше.
+
+Ассоциации помогают:
+- улучшить [запоминание](./zapominanie.md); 
+- быстрее понимать новый материал;
+- легче [вспоминать](aktivnoe_vspominanie.md) информацию;
+- делать [обучение](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sleep_and_memory_grades.md) интереснее;
+- сохранять знания в [долговременную память](./dolgovremennaya_pamyat.md).  
+
+Кроме того, использование ассоциаций часто повышает [интерес к учёбе](motivaciya.md), а значит, и [мотивация](./motivaciya.md) становится выше.
+
+## Как это работает
+
+[Мозг](../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) не хранит информацию отдельно, как файлы в папке. Он связывает её в [сеть](../../5.1_technology_and_digital_literacy/information and media literacy/этика_общения_в_сети.md).
+
+Когда ты создаёшь ассоциацию:
+- новая [информация](../../5.1_technology_and_digital_literacy/information and media literacy/как_устроена_современная_информационная_среда.md) «прикрепляется» к старой; 
+- появляется дополнительный [путь](../../../1.2_natural_sciences/physics_in_everyday_life/Q11476.md) для [воспоминания](../../../1.2_natural_sciences/neurobiology_for_teens/articles/21_how_memory_works.md);  
+- мозгу легче найти нужные [данные](../../2.1_society/cause_and_effect_relationships/articles/ai_causality.md).
+
+Представь, что знания — это города, а ассоциации — дороги между ними. Чем больше дорог, тем быстрее можно добраться до нужного места.
+
+Ассоциации часто используются в [мнемотехнике](./mnemotehnika.md), где создаются специальные образы для запоминания.
+
+## Пример из жизни
+
+Допустим, тебе нужно [запомнить](zapominanie.md) слово «[электрон](../../1.1_structure_of_the_world/matter/articles/03_atom_structure.md)».
+
+Можно просто [повторять](povtorenie.md) его. А можно представить:
+- маленький шарик, который бегает вокруг ядра, как [планета](../../../1.2_natural_sciences/physics_in_everyday_life/Q11423.md);
+- или вообразить, что это крошечный «шарик-молния».
+
+Чем необычнее образ, тем лучше он [запоминается](zapominanie.md).
+
+Другой пример: чтобы [запомнить](zapominanie.md) иностранное слово, можно связать его с похожим по звучанию словом на родном языке и представить забавную сцену.
+
+## Как использовать это на практике
+
+Вот как можно применять ассоциации:
+
+- Связывай новое с тем, что уже знаешь;  
+- Придумывай яркие и необычные образы;
+- Используй смешные или странные картинки;  
+- Представляй сцены, а не отдельные слова; 
+- Сочетай ассоциации с [визуализацией](./vizualizaciya.md);
+- Повторяй образы [время](../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md) от времени.
+
+Не бойся странных идей — они часто работают лучше всего.
+
+> [!TIP]
+> Чем необычнее и ярче ассоциация, тем легче её [вспомнить](aktivnoe_vspominanie.md). [Мозг](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) любит удивительные и смешные образы.
+
+## Что помогает, а что мешает
+
+| Помогает | Мешает |
+|----------|--------|
+| Яркие образы | Скучные и однообразные ассоциации |
+| [Связь](../../2.1_society/cause_and_effect_relationships/articles/causality_base.md) с личным опытом | Отсутствие связи |
+| Смешные и необычные [идеи](../../7.2_leisure/useful_and_interesting_leisure/articles/free_leisure_activities.md) | Слишком логичные, но «сухие» образы |
+| [Повторение](povtorenie.md) ассоциаций | Однократное использование |
+| Простота | Слишком сложные конструкции |
+
+## Частые [ошибки](../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/07_ushib_chego_nelzya.md)
+
+- Делать слишком скучные ассоциации;
+- Не связывать образ с темой;
+- Придумывать слишком сложные картинки;
+- Не [повторять](povtorenie.md) ассоциации;
+- Считать, что это «несерьёзный» способ учёбы.  
+
+На самом деле ассоциации — один из самых естественных способов [работы](../../../8.2_future/choosing_a_career_path/articles/interview.md) мозга.
+
+## [Связь](../../../1.2_natural_sciences/physics_in_everyday_life/Q12969754.md) с другими понятиями
+
+Ассоциации тесно связаны с визуализацией: образы помогают создавать яркие связи.
+
+Они активно используются в [мнемотехнике](./mnemotehnika.md), где помогают [запоминать](zapominanie.md) списки, даты и [факты](../../../1.2_natural_sciences/physics_in_everyday_life/Q17737.md).
+
+Также ассоциации улучшают [запоминание](zapominanie.md) и помогают информации дольше сохраняться в [памяти](pamyat.md).
+
+## Интересный [факт](../../../1.2_natural_sciences/why_science_help_understand_world/science.md)
+
+Странные и необычные образы запоминаются лучше, чем обычные. Это связано с тем, что мозг обращает больше [внимания](vnimanie.md) на что-то необычное.
+
+## См. также
+
+- [Мнемотехника](./mnemotehnika.md)  
+- [Визуализация](./vizualizaciya.md)  
+- [Запоминание](./zapominanie.md)  
+- [Память](./pamyat.md)  
+- [Долговременная память](./dolgovremennaya_pamyat.md)  
+
+---
+Авторы: Леша, @S1lave;
+[Ресурсы](../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): [LLM](../../../7.1_art/modern_technological_art/README.md) - Chat GPT
