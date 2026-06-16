@@ -40,7 +40,7 @@
 ## Профессии, которые изменяются из‑за ИИ
 
 Некоторые профессии уже активно трансформируются под влиянием
-технологий. Искусственный интеллект становится инструментом, который
+технологий. [Искусственный интеллект](../../../1.2_natural_sciences/physics_in_everyday_life/Q11023.md) становится инструментом, который
 помогает специалистам выполнять [работу](../../../8.2_future/choosing_a_career_path/articles/interview.md) быстрее и эффективнее.
 
 К таким профессиям относятся:
@@ -59,7 +59,7 @@
 ## Ограничения искусственного интеллекта
 
 Несмотря на быстрый [прогресс](../../../2.1_society/cause_and_effect_relationships/articles/lessons_of_history.md) технологий, искусственный интеллект имеет
-ограничения. Нейросети работают на основе данных и алгоритмов, поэтому
+ограничения. [Нейросети](../../../2.1_society/cause_and_effect_relationships/articles/ai_causality.md) работают на основе данных и алгоритмов, поэтому
 они могут ошибаться или неправильно интерпретировать сложные ситуации.
 
 Кроме того, существуют [навыки](../../../7.2 Media, leisure and hobbies /useful_and_interesting_leisure/articles/computer_games_with_benefit.md), которые пока сложно автоматизировать:
@@ -67,7 +67,7 @@
 -   креативное [мышление](../../../1.2_natural_sciences/neurobiology_for_teens/articles/01_brain_complexity.md);
 -   [эмоциональный интеллект](../../../1.2_natural_sciences/neurobiology_for_teens/articles/15_empathy.md);
 -   социальное [взаимодействие](../../../1.2_natural_sciences/physics_in_everyday_life/Q128030.md);
--   стратегическое мышление.
+-   стратегическое [мышление](../../../1.2_natural_sciences/neurobiology_for_teens/articles/01_brain_complexity.md).
 
 Эти [способности](../../../4.1_rules_of_study/how_to_learn_effectively/articles/growth_mindset.md) играют важную роль во многих профессиях.
 
@@ -75,7 +75,7 @@
 
 ## Новые профессии в эпоху искусственного интеллекта
 
-[История](../../../1.2_natural_sciences/physics_in_everyday_life/Q11469.md) технологического развития показывает, что новые технологии не
+[История](../../../1.2_natural_sciences/physics_in_everyday_life/Q11469.md) технологического развития показывает, что новые [технологии](../../../2.2_history/world_economy_on_fingers/articles/globalizatsiya.md) не
 только заменяют старые профессии, но и создают новые. Появляются
 специалисты, которые работают непосредственно с искусственным
 интеллектом.
@@ -87,16 +87,16 @@
 -   разработчики ИИ‑систем;
 -   специалисты по этике искусственного интеллекта.
 
-Таким образом, рынок труда постепенно адаптируется к новым технологиям.
+Таким образом, [рынок](../../../2.1_society/cause_and_effect_relationships/articles/economic_chains.md) труда постепенно адаптируется к новым технологиям.
 
 ------------------------------------------------------------------------
 
 ## [Сотрудничество](../../../8.2_future/choosing_a_career_path/articles/team.md) человека и ИИ
 
 Наиболее вероятным сценарием будущего является сотрудничество человека и
-искусственного интеллекта. Алгоритмы могут выполнять [вычисления](../../../7.2 Media, leisure and hobbies/Computer games/articles/technologies_inside/smart_processor.md),
-анализировать данные и помогать в принятии решений, а люди будут
-отвечать за стратегию, [творчество](../../../2.1_society/how_and_where_find_friends/articles/sam_sebe_interesnyi.md) и взаимодействие с другими людьми.
+искусственного интеллекта. [Алгоритмы](../../../1.2_natural_sciences/math_in_life/articles/15_math_in_tech.md) могут выполнять [вычисления](../../../7.2 Media, leisure and hobbies/Computer games/articles/technologies_inside/smart_processor.md),
+анализировать [данные](../../../1.2_natural_sciences/math_in_life/articles/08_statistics.md) и помогать в принятии решений, а люди будут
+отвечать за стратегию, [творчество](../../../2.1_society/how_and_where_find_friends/articles/sam_sebe_interesnyi.md) и [взаимодействие](../../../1.2_natural_sciences/physics_in_everyday_life/Q128030.md) с другими людьми.
 
 Такой подход позволяет объединить [сильные стороны](../../../8.1_self-understanding/HowToFindYourStrengths/articles/career-rise-natural-strengths.md) технологий и
 человеческого мышления.
@@ -107,10 +107,10 @@
 
 Искусственный интеллект уже влияет на рынок труда и меняет многие
 профессии. Однако в ближайшем будущем он скорее станет инструментом,
-который дополняет человеческие навыки, а не полностью заменяет людей.
+который дополняет человеческие [навыки](../../../7.2 Media, leisure and hobbies /useful_and_interesting_leisure/articles/computer_games_with_benefit.md), а не полностью заменяет людей.
 
 Способность адаптироваться, учиться новым технологиям и использовать
-возможности ИИ станет важным фактором успешной карьеры в будущем.
+возможности ИИ станет важным фактором успешной [карьеры](../../../1.1_ustroystvo_mira/zemlya_priroda_i_klimat/articles/lithosphere.md) в будущем.
 
 ------------------------------------------------------------------------
 

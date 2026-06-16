@@ -4,13 +4,13 @@
 
 ## Описание
 
-Этот документ — центральная навигационная страница по разделу «Человек в эпоху алгоритмов».  
+Этот документ — центральная навигационная страница по разделу «[Человек](../../1.2_natural_sciences/physics_in_everyday_life/Q45003.md) в эпоху алгоритмов».  
 Здесь собраны все сгенерированные статьи в удобном порядке, чтобы быстро переходить к нужной теме и выстраивать последовательное [изучение](../../1.2_natural_sciences/why_science_help_understand_world/science.md) материала.
 
 Оглавление охватывает ключевые направления темы:
 - [внимание](../../1.2_natural_sciences/neurobiology_for_teens/articles/16_love_chemistry.md), клиповое [мышление](../../1.2_natural_sciences/neurobiology_for_teens/articles/01_brain_complexity.md) и способы его развития;
 - [алгоритмы](../../4.2_thinking_and_working_information/how_to_search_information/articles/buble_filter.md) рекомендаций, дофаминовые петли и эхо-камеры;
-- цифровая идентичность, самовыражение и [творчество](../../2.1_society/how_and_where_find_friends/articles/sam_sebe_interesnyi.md);
+- цифровая [идентичность](articles/3-Цифровая идентичность.md), [самовыражение](articles/3-Цифровое самовыражение и творчество.md) и [творчество](../../2.1_society/how_and_where_find_friends/articles/sam_sebe_interesnyi.md);
 - [интернет](../../1.2_natural_sciences/physics_in_everyday_life/Q26540.md) как расширение [памяти](../../4.1_rules_of_study/how_to_memorize/articles/pamyat.md) и коллективный [интеллект](../../2.1_society/cause_and_effect_relationships/articles/critical_thinking_in_education.md);
 - обман в интернете в эпоху нейросетей.
 
@@ -20,25 +20,25 @@
 
 ## Содержание
 
-### Внимание и клиповое мышление
+### [Внимание](../../1.2_natural_sciences/neurobiology_for_teens/articles/16_love_chemistry.md) и клиповое [мышление](../../1.2_natural_sciences/neurobiology_for_teens/articles/01_brain_complexity.md)
 
 1. [Сокращение внимания: почему мозг устаёт и «просит новое»](./articles/1-Сокращение_внимания_почему_мозг_устает.md)
 2. [Как прокачать внимание и приручить клипы: практики для школьника](./articles/1-Как_прокачать_внимание_и_приручить_клипы.md)
 3. [Клиповое мышление: когда мир выглядит как лента](./articles/1-Клиповое_мышление_когда_мир_выглядит_как_лента.md)
 
-### Алгоритмы и рекомендации
+### [Алгоритмы](../../1.2_natural_sciences/math_in_life/articles/15_math_in_tech.md) и рекомендации
 
 4. [Дофаминовая петля: как алгоритмы управляют твоим вниманием](./articles/2-Дофаминовая%петля.md)
 5. [Как работают рекомендации: от клика до «умной» ленты](./articles/2-Как%работают%рекомендации.md)
 6. [Ловушка «Эхо-камеры»: почему интернет нам поддакивает](./articles/2-Ловушка.md)
 
-### Цифровая идентичность и творчество
+### Цифровая идентичность и [творчество](../../2.1_society/how_and_where_find_friends/articles/sam_sebe_interesnyi.md)
 
 7. [Цифровая идентичность: кто ты в интернете](./articles/3-Цифровая%идентичность.md)
 8. [Создание и управление онлайн-профилем: твоя цифровая визитная карточка](./articles/3-Создание%и%управление%онлайн-профилем.md)
 9. [Цифровое самовыражение и творчество: найди свой голос в интернете](./articles/3-Цифровое%самовыражение%и%творчество.md)
 
-### Интернет как расширение памяти и интеллекта
+### [Интернет](../../1.2_natural_sciences/physics_in_everyday_life/Q26540.md) как расширение [памяти](../../4.1_rules_of_study/how_to_memorize/articles/pamyat.md) и интеллекта
 
 10. [Внешняя память: интернет как жесткий диск нашего мозга](./articles/4-internet_memory.md)
 11. [Коллективный интеллект: как миллионы умов создают общее знание](./articles/4-internet_collective_intelligence.md)
