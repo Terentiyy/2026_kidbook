@@ -1,0 +1,266 @@
+[
+  {
+    "section": "1.2_natural_sciences",
+    "topic": "math_in_life",
+    "author_group": "команда OKAK_2",
+    "members": [
+      "Пинчук Михаил",
+      "Никольский Константин",
+      "Смирнов Андрей"
+    ],
+    "concepts": [
+      {
+        "id": "1.2_natural_sciences/math_in_life/01_numbers",
+        "name": "Числа вокруг нас",
+        "description": "О том, как числа пронизывают повседневную жизнь: от номеров домов до музыкального ритма. Что такое число и зачем люди придумали счёт.",
+        "lemmas": [
+          "числа",
+          "число",
+          "счёт",
+          "цифра",
+          "цифры"
+        ],
+        "file": "WEB/1.2_natural_sciences/math_in_life/articles/01_numbers.md",
+        "wikidata_id": "Q11563",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q11563",
+        "author": "Пинчук Михаил"
+      },
+      {
+        "id": "1.2_natural_sciences/math_in_life/02_fractions",
+        "name": "Дроби и проценты",
+        "description": "О дробях и процентах в реальной жизни: скидки в магазине, рецепты, батарея телефона. Как считать части целого.",
+        "lemmas": [
+          "дробь",
+          "дроби",
+          "процент",
+          "проценты",
+          "доля",
+          "скидка"
+        ],
+        "file": "WEB/1.2_natural_sciences/math_in_life/articles/02_fractions.md",
+        "wikidata_id": "Q66055",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q66055",
+        "author": "Пинчук Михаил"
+      },
+      {
+        "id": "1.2_natural_sciences/math_in_life/03_coordinates",
+        "name": "Координаты и карты",
+        "description": "О том, как координаты помогают описать любую точку на Земле или на листе бумаги. GPS, карты, шахматная доска — везде используются координаты.",
+        "lemmas": [
+          "координаты",
+          "координата",
+          "карта",
+          "карты",
+          "GPS",
+          "навигация"
+        ],
+        "file": "WEB/1.2_natural_sciences/math_in_life/articles/03_coordinates.md",
+        "wikidata_id": "Q43649",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q43649",
+        "author": "Пинчук Михаил"
+      },
+      {
+        "id": "1.2_natural_sciences/math_in_life/04_geometry",
+        "name": "Геометрия вокруг нас",
+        "description": "О геометрических формах в природе и архитектуре: почему соты — шестиугольники, а мыльные пузыри — сферы. Геометрия как язык форм.",
+        "lemmas": [
+          "геометрия",
+          "геометрический",
+          "форма",
+          "фигура",
+          "треугольник",
+          "прямоугольник",
+          "круг"
+        ],
+        "file": "WEB/1.2_natural_sciences/math_in_life/articles/04_geometry.md",
+        "wikidata_id": "Q8087",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q8087",
+        "author": "Пинчук Михаил"
+      },
+      {
+        "id": "1.2_natural_sciences/math_in_life/05_symmetry",
+        "name": "Симметрия",
+        "description": "О симметрии в природе, искусстве и архитектуре. Почему бабочки, снежинки и соборы симметричны. Виды симметрии и зеркальное отражение.",
+        "lemmas": [
+          "симметрия",
+          "симметричный",
+          "отражение",
+          "зеркальный"
+        ],
+        "file": "WEB/1.2_natural_sciences/math_in_life/articles/05_symmetry.md",
+        "wikidata_id": "Q41538",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q41538",
+        "author": "Пинчук Михаил"
+      },
+      {
+        "id": "1.2_natural_sciences/math_in_life/06_scale",
+        "name": "Масштаб и измерения",
+        "description": "О том, как масштаб позволяет уместить огромный мир на маленькой карте или план квартиры на листе бумаги. Единицы измерения и пропорции.",
+        "lemmas": [
+          "масштаб",
+          "измерение",
+          "измерения",
+          "единица",
+          "пропорция",
+          "длина",
+          "площадь",
+          "объём"
+        ],
+        "file": "WEB/1.2_natural_sciences/math_in_life/articles/06_scale.md",
+        "wikidata_id": "Q194356",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q194356",
+        "author": "Никольский Константин"
+      },
+      {
+        "id": "1.2_natural_sciences/math_in_life/07_probability",
+        "name": "Вероятность",
+        "description": "О вероятности в жизни: прогноз погоды, игры с кубиками, лотерея. Как математика помогает оценивать шансы и принимать решения.",
+        "lemmas": [
+          "вероятность",
+          "шанс",
+          "случайность",
+          "случайный",
+          "исход",
+          "прогноз"
+        ],
+        "file": "WEB/1.2_natural_sciences/math_in_life/articles/07_probability.md",
+        "wikidata_id": "Q9492",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q9492",
+        "author": "Никольский Константин"
+      },
+      {
+        "id": "1.2_natural_sciences/math_in_life/08_statistics",
+        "name": "Статистика",
+        "description": "О том, как статистика помогает понимать мир: средняя оценка в классе, результаты выборов, популярность песни. Среднее, медиана, мода.",
+        "lemmas": [
+          "статистика",
+          "среднее",
+          "медиана",
+          "данные",
+          "опрос",
+          "исследование"
+        ],
+        "file": "WEB/1.2_natural_sciences/math_in_life/articles/08_statistics.md",
+        "wikidata_id": "Q12483",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q12483",
+        "author": "Никольский Константин"
+      },
+      {
+        "id": "1.2_natural_sciences/math_in_life/09_graphs_charts",
+        "name": "Графики и диаграммы",
+        "description": "О том, как графики и диаграммы превращают числа в наглядные картины. Столбчатые, круговые, линейные — какой тип выбрать и как читать.",
+        "lemmas": [
+          "график",
+          "графики",
+          "диаграмма",
+          "диаграммы",
+          "таблица",
+          "визуализация"
+        ],
+        "file": "WEB/1.2_natural_sciences/math_in_life/articles/09_graphs_charts.md",
+        "wikidata_id": "Q742794",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q742794",
+        "author": "Никольский Константин"
+      },
+      {
+        "id": "1.2_natural_sciences/math_in_life/10_sequences",
+        "name": "Последовательности и закономерности",
+        "description": "О числовых последовательностях в природе и жизни: числа Фибоначчи в цветах, арифметические и геометрические прогрессии, паттерны.",
+        "lemmas": [
+          "последовательность",
+          "закономерность",
+          "паттерн",
+          "прогрессия",
+          "Фибоначчи"
+        ],
+        "file": "WEB/1.2_natural_sciences/math_in_life/articles/10_sequences.md",
+        "wikidata_id": "Q133900",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q133900",
+        "author": "Никольский Константин"
+      },
+      {
+        "id": "1.2_natural_sciences/math_in_life/11_logic",
+        "name": "Логика и рассуждения",
+        "description": "О математической логике в повседневной жизни: как строить правильные выводы, что такое условие «если…то», как решать логические задачи.",
+        "lemmas": [
+          "логика",
+          "логический",
+          "вывод",
+          "условие",
+          "рассуждение",
+          "доказательство"
+        ],
+        "file": "WEB/1.2_natural_sciences/math_in_life/articles/11_logic.md",
+        "wikidata_id": "Q1166618",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q1166618",
+        "author": "Смирнов Андрей"
+      },
+      {
+        "id": "1.2_natural_sciences/math_in_life/12_encryption",
+        "name": "Шифрование и коды",
+        "description": "О том, как математика защищает наши сообщения: шифр Цезаря, QR-коды, штрих-коды. Как числа превращаются в секретный язык.",
+        "lemmas": [
+          "шифрование",
+          "шифр",
+          "код",
+          "коды",
+          "секрет",
+          "QR-код",
+          "штрих-код"
+        ],
+        "file": "WEB/1.2_natural_sciences/math_in_life/articles/12_encryption.md",
+        "wikidata_id": "Q8087",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q8087",
+        "author": "Смирнов Андрей"
+      },
+      {
+        "id": "1.2_natural_sciences/math_in_life/13_math_in_nature",
+        "name": "Математика в природе",
+        "description": "О математических закономерностях в природе: спираль улитки, соты пчёл, фракталы в снежинках и папоротниках. Математика как язык природы.",
+        "lemmas": [
+          "фрактал",
+          "фракталы",
+          "спираль",
+          "золотое сечение",
+          "природа"
+        ],
+        "file": "WEB/1.2_natural_sciences/math_in_life/articles/13_math_in_nature.md",
+        "wikidata_id": "Q40026",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q40026",
+        "author": "Смирнов Андрей"
+      },
+      {
+        "id": "1.2_natural_sciences/math_in_life/14_golden_ratio",
+        "name": "Золотое сечение",
+        "description": "О загадочном числе 1,618…, которое встречается в архитектуре Парфенона, картинах Леонардо да Винчи, раковинах моллюсков и пропорциях человеческого тела.",
+        "lemmas": [
+          "золотое сечение",
+          "золотого сечения",
+          "пропорция красоты",
+          "число Фи"
+        ],
+        "file": "WEB/1.2_natural_sciences/math_in_life/articles/14_golden_ratio.md",
+        "wikidata_id": "Q41690",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q41690",
+        "author": "Смирнов Андрей"
+      },
+      {
+        "id": "1.2_natural_sciences/math_in_life/15_math_in_tech",
+        "name": "Математика в технологиях",
+        "description": "О том, как математика лежит в основе компьютеров, смартфонов, видеоигр и интернета. Бинарный код, пиксели, алгоритмы сжатия.",
+        "lemmas": [
+          "бинарный код",
+          "пиксель",
+          "пиксели",
+          "алгоритм",
+          "алгоритмы",
+          "компьютер"
+        ],
+        "file": "WEB/1.2_natural_sciences/math_in_life/articles/15_math_in_tech.md",
+        "wikidata_id": "Q48537",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q48537",
+        "author": "Смирнов Андрей"
+      }
+    ]
+  }
+]
