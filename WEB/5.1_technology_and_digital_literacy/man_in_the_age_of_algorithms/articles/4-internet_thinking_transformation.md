@@ -2,11 +2,11 @@
 
 ## [Влияние](../../information and media literacy/манипуляции_и_пропаганда.md) цифровых технологий на [восприятие](../../../1.2_natural_sciences/neurobiology_for_teens/articles/26_optical_illusions.md), [внимание](../../../1.2_natural_sciences/neurobiology_for_teens/articles/16_love_chemistry.md) и обработку информации
 
-Интернет изменил не только внешние хранилища информации, но и сам способ нашего мышления. Мы по-другому читаем, по-другому запоминаем, по-другому принимаем решения. Психологи и нейробиологи спорят: это [эволюция](../../../1.2_natural_sciences/neurobiology_for_teens/articles/10_sweet_tooth.md) или деградация?
+[Интернет](../../../1.2_natural_sciences/physics_in_everyday_life/Q26540.md) изменил не только внешние хранилища информации, но и сам способ нашего мышления. Мы по-другому читаем, по-другому запоминаем, по-другому принимаем решения. Психологи и нейробиологи спорят: это [эволюция](../../../1.2_natural_sciences/neurobiology_for_teens/articles/10_sweet_tooth.md) или деградация?
 
 ## Клиповое [мышление](../../../1.2_natural_sciences/neurobiology_for_teens/articles/01_brain_complexity.md): проклятие или дар?
 
-Термин "клиповое мышление" появился в [1990-е](../../../7.1_art/modern_technological_art/articles/2.2_heath_bunting.md) годы. Он описывает способность воспринимать мир через короткие, яркие образы (клипы), но неспособность долго удерживать внимание на одном объекте.
+Термин "клиповое [мышление](../../../1.2_natural_sciences/neurobiology_for_teens/articles/01_brain_complexity.md)" появился в [1990-е](../../../7.1_art/modern_technological_art/articles/2.2_heath_bunting.md) годы. Он описывает способность воспринимать мир через короткие, яркие образы (клипы), но неспособность долго удерживать [внимание](../../../1.2_natural_sciences/neurobiology_for_teens/articles/16_love_chemistry.md) на одном объекте.
 
 **Историческая справка:**
 До появления письменности люди обладали феноменальной [памятью](../../../4.1_rules_of_study/how_to_memorize/articles/pamyat.md) — они запоминали тысячестрочные поэмы наизусть. После изобретения книг [память](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sleep_and_memory_grades.md) ослабла, зато появилась возможность анализировать и сравнивать тексты. Сейчас происходит новый [сдвиг](../../../1.2_natural_sciences/physics_in_everyday_life/Q193514.md).
@@ -22,15 +22,15 @@
 | [Время](../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md) концентрации | [Часы](../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md) ([чтение](../../../4.1_rules_of_study/how_to_learn_effectively/articles/reading_skills.md) [книги](../../../7.2 Media, leisure and hobbies /useful_and_interesting_leisure/articles/reading_and_self_education.md)) | Секунды-минуты ([лента](../../information and media literacy/алгоритмы_и_пузырь_фильтров.md) соцсетей) |
 | Способ обработки | Линейный, последовательный | Параллельный, хаотичный |
 | Что ценится | [Логика](../../../2.1_society/cause_and_effect_relationships/articles/causality_base.md), [аргументация](../../../4.2_thinking_and_working_information/critical_thinking/articles/logical_errors_and_sophisms.md) | Яркость, эмоциональность |
-| [Источник](../../information and media literacy/дезинформация_и_фейки.md) знаний | Книги, учителя | Поисковики, рекомендательные системы |
+| [Источник](../../information and media literacy/дезинформация_и_фейки.md) знаний | [Книги](../../../7.2 Media, leisure and hobbies /useful_and_interesting_leisure/articles/reading_and_self_education.md), учителя | Поисковики, рекомендательные системы |
 
 ## Исследования [внимания](../../../4.1_rules_of_study/how_to_memorize/articles/vnimanie.md)
 
-Ученые из Университета Калифорнии провели [исследование](../../../1.2_natural_sciences/neurobiology_for_teens/articles/19_curiosity.md): они наблюдали за студентами во время [работы](../../../8.2_future/choosing_a_career_path/articles/interview.md) за компьютером. [Результат](../../../1.2_natural_sciences/why_science_help_understand_world/experimental_science.md) шокировал:
+Ученые из Университета Калифорнии провели [исследование](../../../1.2_natural_sciences/neurobiology_for_teens/articles/19_curiosity.md): они наблюдали за студентами во [время](../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md) [работы](../../../8.2_future/choosing_a_career_path/articles/interview.md) за компьютером. [Результат](../../../1.2_natural_sciences/why_science_help_understand_world/experimental_science.md) шокировал:
 
-* Среднее время на одном окне/вкладке — **47 секунд**.
+* [Среднее](../../../1.2_natural_sciences/math_in_life/articles/08_statistics.md) время на одном окне/вкладке — **47 секунд**.
 * Максимальное время — редко больше 2 минут.
-* Постоянное переключение между задачами: [проверка](../../../1.2_natural_sciences/why_science_help_understand_world/scientific_method.md) почты, [соцсети](../../../2.1_society/how_and_where_find_friends/articles/tcifrovaya_druzhba.md), [работа](../../../1.2_natural_sciences/physics_in_everyday_life/Q11382.md), снова почта.
+* Постоянное [переключение](1-Сокращение_внимания_почему_мозг_устает.md) между задачами: [проверка](../../../1.2_natural_sciences/why_science_help_understand_world/scientific_method.md) почты, [соцсети](../../../2.1_society/how_and_where_find_friends/articles/tcifrovaya_druzhba.md), [работа](../../../1.2_natural_sciences/physics_in_everyday_life/Q11382.md), снова почта.
 
 [Мозг](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) привыкает к быстрой смене стимулов. Длинные тексты начинают казаться скучными, потому что не дают постоянных "дофаминовых поглаживаний".
 
@@ -38,7 +38,7 @@
 
 Многие [подростки](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/biology_of_night_owls_teens.md) гордятся своей многозадачностью: одновременно делают уроки, слушают музыку, переписываются в трех чатах и смотрят TikTok. Нейробиологи говорят: настоящей многозадачности не существует.
 
-**Как работает мозг при "многозадачности":**
+**Как работает [мозг](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) при "многозадачности":**
 
 1. Мозг не может обрабатывать два сложных потока информации одновременно.
 2. Он быстро переключается между задачами.
@@ -47,11 +47,11 @@
 5. В итоге все [задачи](../../../1.2_natural_sciences/why_science_help_understand_world/research_work.md) делаются медленнее и хуже.
 
 **[Эксперимент](../../../1.2_natural_sciences/physics_in_everyday_life/Q1293220.md):**
-Студентов разделили на две группы. Первая учила [материал](../../../1.2_natural_sciences/physics_in_everyday_life/Q25358.md), не отвлекаясь. Вторая учила, периодически отвечая на [сообщения](../../operating system/articles/IPC.md). Результат: вторая группа потратила на 40% больше времени и запомнила на 30% меньше информации.
+Студентов разделили на две группы. Первая учила [материал](../../../1.2_natural_sciences/physics_in_everyday_life/Q25358.md), не отвлекаясь. Вторая учила, периодически отвечая на [сообщения](../../operating system/articles/IPC.md). [Результат](../../../1.2_natural_sciences/why_science_help_understand_world/experimental_science.md): вторая группа потратила на 40% больше времени и запомнила на 30% меньше информации.
 
 ## Изменение навыков чтения
 
-Мы читаем иначе, чем наши [родители](../../../../8.1_self_understanding/articles/family_influence.md). При сканировании текста в интернете мы не читаем слова целиком — мы выхватываем ключевые фрагменты. [Глаз](../../../1.2_natural_sciences/physics_in_everyday_life/Q467980.md) движется не плавно, а прыжками. Это называется **F-образное чтение**:
+Мы читаем иначе, чем наши [родители](../../../../8.1_self_understanding/articles/family_influence.md). При сканировании текста в интернете мы не читаем слова целиком — мы выхватываем ключевые фрагменты. [Глаз](../../../1.2_natural_sciences/physics_in_everyday_life/Q467980.md) движется не плавно, а прыжками. Это называется **F-образное [чтение](../../../4.1_rules_of_study/how_to_learn_effectively/articles/reading_skills.md)**:
 
 1. Сначала читаем первые несколько строк полностью.
 2. Потом пробегаем по левому краю текста, выхватывая начало абзацев.
@@ -70,9 +70,9 @@
 
 <!--- Важно понимать: глубокое чтение никуда не исчезло. Оно превратилось в специальный навык, который нужно развивать отдельно. --->
 
-## [Критическое мышление](../../../1.2_natural_sciences/neurobiology_for_teens/articles/25_cognitive_biases.md) как навык выживания
+## [Критическое мышление](../../../1.2_natural_sciences/neurobiology_for_teens/articles/25_cognitive_biases.md) как [навык](../../information and media literacy/карта_компетенций_по_возрастам.md) выживания
 
-В мире, где любой может опубликовать любую информацию, критическое мышление становится таким же базовым навыком, как чтение и письмо. Это [защита](../../how_internet_works/articles/dns/cdn.md) от манипуляций, фейков и глупых решений.
+В мире, где любой может опубликовать любую информацию, [критическое мышление](../../../1.2_natural_sciences/neurobiology_for_teens/articles/25_cognitive_biases.md) становится таким же базовым навыком, как чтение и письмо. Это [защита](../../how_internet_works/articles/dns/cdn.md) от манипуляций, фейков и глупых решений.
 
 **[Структура](../../../4.1_rules_of_study/how_to_learn_effectively/articles/note_taking.md) критического мышления:**
 
@@ -80,9 +80,9 @@
    * Кто [автор](../../../4.2_thinking_and_working_information/how_to_search_information/articles/copypaste.md)? ([эксперт](../../../../8.1_self_understanding/articles/types_of_impostor_syndrome.md), журналист, блогер, тролль?)
    * Какова [цель](../../../1.2_natural_sciences/why_science_help_understand_world/research_work.md)? (информировать, продать, развлечь, убедить?)
    * Какие [факты](../../../1.2_natural_sciences/physics_in_everyday_life/Q17737.md) приводятся? (есть ли ссылки на [источники](../../../4.2_thinking_and_working_information/how_to_search_information/articles/three_whales.md)?)
-   * Какая логика? (есть ли противоречия?)
+   * Какая [логика](../../../1.2_natural_sciences/math_in_life/articles/11_logic.md)? (есть ли противоречия?)
 
-2. **Анализ себя:**
+2. **[Анализ](../../../1.2_natural_sciences/why_science_help_understand_world/research.md) себя:**
    * Почему я верю этому? (потому что это правда или потому что мне это приятно?)
    * Какие у меня предубеждения? (политические, религиозные, культурные)
    * [Хочу](../../../6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/want.md) ли я узнать правду или подтвердить свое [мнение](../../../4.2_thinking_and_working_information/critical_thinking/articles/fact_and_opinion_differences.md)?
@@ -95,16 +95,16 @@
 ## Практические приемы проверки информации
 
 **Прием 1: Обратный [поиск](../../../3.2 healthy lifestyle/how to act in a dangerous situation/articles/lost-in-city.md) изображений.**
-Если вам прислали "сенсационное [фото](../../information and media literacy/проверка_фото_на_манипуляции.md)", сохраните его и загрузите в поиск по картинкам (Google Images или Yandex.Картинки). Вы увидите, где это фото публиковалось раньше и в каком контексте.
+Если вам прислали "сенсационное [фото](../../information and media literacy/проверка_фото_на_манипуляции.md)", сохраните его и загрузите в [поиск](../../../3.2 healthy lifestyle/how to act in a dangerous situation/articles/lost-in-city.md) по картинкам (Google Images или Yandex.Картинки). Вы увидите, где это [фото](../../information and media literacy/проверка_фото_на_манипуляции.md) публиковалось раньше и в каком контексте.
 
-**Прием 2: Проверка даты.**
+**Прием 2: [Проверка](../../../1.2_natural_sciences/why_science_help_understand_world/scientific_method.md) даты.**
 Старые новости часто выдают за свежие. Обращайте внимание на дату публикации, особенно в соцсетях.
 
 **Прием 3: Поиск опровержений.**
 Если вы увидели громкую [новость](../../information and media literacy/информационная_диета.md), добавьте в поиск слова "[фейк](../../../2.1_society/cause_and_effect_relationships/articles/false_connections.md)", "[ложь](../../../2.1_society/cause_and_effect_relationships/articles/false_connections.md)", "опровержение". Возможно, это уже разоблачили.
 
 **Прием 4: Анализ домена.**
-Сайты-однодневки часто регистрируют на странные домены (например, [.ru](../../how_internet_works/articles/dns/domains.md).com или .info). Проверьте, когда зарегистрирован сайт (через сервис [whois](../../how_internet_works/articles/dns/domains.md)).
+Сайты-однодневки часто регистрируют на странные домены (например, [.ru](../../how_internet_works/articles/dns/domains.md)[.com](../../how_internet_works/articles/dns/domains.md) или .info). Проверьте, когда зарегистрирован сайт (через сервис [whois](../../how_internet_works/articles/dns/domains.md)).
 
 **Прием 5: Синтаксический анализ.**
 Обилие восклицательных знаков, капслок, призывы "срочно репостни" — [признаки](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/04_ushib_chto_eto_priznaki.md) эмоциональной манипуляции.
@@ -116,7 +116,7 @@
 **[Правило](../../../1.2_natural_sciences/why_science_help_understand_world/patterns.md) 1: Ограничьте входящий [поток](../../operating system/articles/thread.md).**
 Вы не обязаны читать всё. Отпишитесь от пабликов, которые не приносят пользы или радости. Отключите [уведомления](../../../4.2_thinking_and_working_information/how_to_search_information/articles/information_hygiene.md) из большинства приложений.
 
-**Правило 2: Диверсифицируйте источники.**
+**[Правило](../../../1.2_natural_sciences/why_science_help_understand_world/patterns.md) 2: Диверсифицируйте [источники](../../../4.2_thinking_and_working_information/how_to_search_information/articles/three_whales.md).**
 Читайте людей с разными взглядами. Это защитит от пузыря фильтров. Если вы смотрите только оппозиционные каналы или только провластные — вы видите лишь часть реальности.
 
 **Правило 3: Делайте [цифровой детокс](../../../3.1_healthy lifestyle/vrednye_privychki/articles/Social_media.md).**
@@ -134,7 +134,7 @@ Google и [Яндекс](../../../7.1_art/modern_technological_art/articles/5.5_
 | [site:](../../../../4.2/how_to_search_information/articles/search_operations.md) | Ищет только на указанном сайте | site:gov.ru налоги |
 | - | Исключает слово | [рецепт](../../../6.1_Independent_living_and_daily_living_skills/Simple_and_safe_cooking/articles/how_to_read_recipe.md) торта -яблоко |
 | filetype: | Ищет файлы нужного типа | filetype:pdf война и мир |
-| related: | Ищет похожие сайты | related:[wikipedia](../../../4.2_thinking_and_working_information/how_to_search_information/articles/wikipedia.md).org |
+| related: | Ищет похожие сайты | related:[wikipedia](../../../4.2_thinking_and_working_information/how_to_search_information/articles/wikipedia.md)[.org](../../how_internet_works/articles/dns/domains.md) |
 
 ## Что мы теряем и что приобретаем
 
@@ -142,30 +142,30 @@ Google и [Яндекс](../../../7.1_art/modern_technological_art/articles/5.5_
 
 * Глубину концентрации.
 * Способность к длительному умственному усилию.
-* Механическую память (факты, даты, стихи).
+* Механическую [память](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sleep_and_memory_grades.md) ([факты](../../../1.2_natural_sciences/physics_in_everyday_life/Q17737.md), даты, стихи).
 * [Навыки](../../../7.2 Media, leisure and hobbies /useful_and_interesting_leisure/articles/computer_games_with_benefit.md) устного счета и ориентации без навигатора.
 
 **Приобретения:**
 
-* Скорость обработки информации.
+* [Скорость](../../../1.2_natural_sciences/physics_in_everyday_life/Q11402.md) обработки информации.
 * Способность к быстрому переключению.
-* Навыки поиска и фильтрации.
+* [Навыки](../../../7.2 Media, leisure and hobbies /useful_and_interesting_leisure/articles/computer_games_with_benefit.md) поиска и фильтрации.
 * Доступ к коллективному знанию.
 * Возможность учиться у лучших (лекции нобелевских лауреатов доступны всем).
 
 ## Интересные факты
 
-Исследование Microsoft 2015 года показало, что средняя продолжительность концентрации внимания человека сократилась с 12 секунд (2000 год) до 8 секунд (2015 год). Для сравнения: у золотой рыбки — 9 секунд.
+[Исследование](../../../1.2_natural_sciences/math_in_life/articles/08_statistics.md) Microsoft 2015 года показало, что средняя продолжительность концентрации [внимания](../../../4.1_rules_of_study/how_to_memorize/articles/vnimanie.md) человека сократилась с 12 секунд (2000 год) до 8 секунд (2015 год). Для сравнения: у золотой рыбки — 9 секунд.
 
-Нейробиолог Сьюзан Гринфилд обнаружила, что у детей, проводящих много времени в интернете, изменяется структура префронтальной коры — области мозга, отвечающей за [планирование](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/ideal_schedule_energy_management.md) и [самоконтроль](../../../1.2_natural_sciences/neurobiology_for_teens/articles/05_teen_brain.md).
+Нейробиолог Сьюзан Гринфилд обнаружила, что у детей, проводящих много времени в интернете, изменяется [структура](../../../4.1_rules_of_study/how_to_learn_effectively/articles/note_taking.md) префронтальной коры — области мозга, отвечающей за [планирование](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/ideal_schedule_energy_management.md) и [самоконтроль](../../../1.2_natural_sciences/neurobiology_for_teens/articles/05_teen_brain.md).
 
-Эксперимент 2009 года показал: люди, которые читали [текст](../../../4.1_rules_of_study/how_to_learn_effectively/articles/reading_skills.md) с гиперссылками, запоминали его хуже, чем те, кто читал обычный текст. Мозг тратил [ресурсы](../../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md) на [решение](../../../2.1_society/cause_and_effect_relationships/articles/personal_choice.md) "кликать или не кликать".
+[Эксперимент](../../../1.2_natural_sciences/physics_in_everyday_life/Q1293220.md) 2009 года показал: люди, которые читали [текст](../../../4.1_rules_of_study/how_to_learn_effectively/articles/reading_skills.md) с гиперссылками, запоминали его хуже, чем те, кто читал обычный [текст](../../../4.1_rules_of_study/how_to_learn_effectively/articles/reading_skills.md). Мозг тратил [ресурсы](../../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md) на [решение](../../../2.1_society/cause_and_effect_relationships/articles/personal_choice.md) "кликать или не кликать".
 
 В среднем офисный работник переключается между задачами каждые 3 минуты. После переключения требуется до 23 минут, чтобы полностью вернуться к прежней задаче.
 
 Исследование Калифорнийского университета 2011 года: студенты, которым разрешили пользоваться ноутбуками на лекции, получили на экзамене [оценки](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sleep_and_memory_grades.md) на 11% ниже, чем те, кто писал от руки.
 
-Николас Карр в книге "Пустышка" (2010) описал, как после многих лет работы в интернете он потерял способность читать длинные книги — мозг требовал постоянной смены стимулов.
+Николас Карр в книге "Пустышка" (2010) описал, как после многих лет [работы](../../../8.2_future/choosing_a_career_path/articles/interview.md) в интернете он потерял способность читать длинные книги — мозг требовал постоянной смены стимулов.
 
 ---
 
@@ -181,4 +181,4 @@ Google и [Яндекс](../../../7.1_art/modern_technological_art/articles/5.5_
 ---
 
 Авторы: Дэниз Махмутов, @modestaq;
-Ресурсы: [LLM](../../../7.1_art/modern_technological_art/README.md) - DeepSeek, [ChatGPT](../../../7.1_art/modern_technological_art/articles/6.1_prompt_art.md), Claude, Gemini
+[Ресурсы](../../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): [LLM](../../../7.1_art/modern_technological_art/README.md) - DeepSeek, [ChatGPT](../../../7.1_art/modern_technological_art/articles/6.1_prompt_art.md), Claude, Gemini

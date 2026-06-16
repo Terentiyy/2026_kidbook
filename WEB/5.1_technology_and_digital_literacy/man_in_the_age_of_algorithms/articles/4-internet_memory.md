@@ -2,29 +2,29 @@
 
 ## Как цифровые [технологии](../../../2.2_history/world_economy_on_fingers/articles/globalizatsiya.md) изменили способ хранения и использования знаний
 
-Человеческий [мозг](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) — удивительный [орган](../../../7.1_art/musical_instruments/articles/organ.md), но у него есть жесткие ограничения. Мы не можем [запомнить](../../../4.1_rules_of_study/how_to_memorize/articles/zapominanie.md) бесконечное количество фактов, дат, имен и цифр. [Природа](../../../1.2_natural_sciences/physics_in_everyday_life/Q11408.md) нашла [выход](../../../3.2 healthy lifestyle/how to act in a dangerous situation/articles/building-evacuation.md): мы запоминаем не саму информацию, а то, где ее найти. В древности это были старейшины племени, в Средневековье — священные тексты и ученые мужи, в XIX веке — энциклопедии и библиотеки. Сегодня главным хранилищем знаний стал интернет.
+Человеческий [мозг](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md) — удивительный [орган](../../../7.1_art/musical_instruments/articles/organ.md), но у него есть жесткие ограничения. Мы не можем [запомнить](../../../4.1_rules_of_study/how_to_memorize/articles/zapominanie.md) бесконечное количество фактов, дат, имен и цифр. [Природа](../../../1.2_natural_sciences/physics_in_everyday_life/Q11408.md) нашла [выход](../../../3.2 healthy lifestyle/how to act in a dangerous situation/articles/building-evacuation.md): мы запоминаем не саму информацию, а то, где ее найти. В древности это были старейшины племени, в Средневековье — священные тексты и ученые мужи, в XIX веке — энциклопедии и библиотеки. Сегодня главным хранилищем знаний стал [интернет](../../../1.2_natural_sciences/physics_in_everyday_life/Q26540.md).
 
 ![](../images/image.png)
 
 ## Ограничения биологической [памяти](../../../4.1_rules_of_study/how_to_memorize/articles/pamyat.md)
 
-Чтобы понять, зачем нам нужна внешняя память, нужно разобраться, как устроен мозг.
+Чтобы понять, зачем нам нужна [внешняя память](../../../4.2_thinking_and_working_information/how_to_search_information/articles/second_mind.md), нужно разобраться, как устроен [мозг](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/breakfast_for_the_brain.md).
 
-**[Характеристики](../../../6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/comparison.md) человеческой памяти:**
+**[Характеристики](../../../6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/comparison.md) человеческой [памяти](../../../4.1_rules_of_study/how_to_memorize/articles/pamyat.md):**
 
 | [Тип](../../../5.2_cybersecurity/cpp_fundamentals/13_struct.md) памяти | [Объем](../../../1.2_natural_sciences/physics_in_everyday_life/Q11435.md) | [Время](../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md) хранения | [Скорость](../../../1.2_natural_sciences/physics_in_everyday_life/Q11402.md) доступа | Пример |
 |:------------|:------|:----------------|:------------------:|:-------|
 | Сенсорная | Огромный | До 1 секунды | Мгновенно | Отблеск света, [звук](../../../1.2_natural_sciences/physics_in_everyday_life/Q124003.md) пролетевшей мухи |
 | Кратковременная | 5–9 элементов | До 30 секунд | Быстро | Номер телефона, который набираешь |
-| Долговременная | Практически безграничен | Вся [жизнь](../../../1.2_natural_sciences/physics_in_everyday_life/Q1751973.md) | От секунд до часов | Лицо мамы, родной [язык](../../../5.2_cybersecurity/cpp_fundamentals/1_introduction.md), таблица умножения |
+| Долговременная | Практически безграничен | Вся [жизнь](../../../1.2_natural_sciences/physics_in_everyday_life/Q1751973.md) | От секунд до часов | Лицо мамы, родной [язык](../../../5.2_cybersecurity/cpp_fundamentals/1_introduction.md), [таблица](../../../1.2_natural_sciences/math_in_life/articles/09_graphs_charts.md) умножения |
 
-Главная проблема в [том](../../../7.1_art/musical_instruments/articles/drums.md), что **[кратковременная память](../../../1.2_natural_sciences/neurobiology_for_teens/articles/21_how_memory_works.md)** — это узкое горлышко. Мы можем удерживать в голове одновременно всего 7±2 элемента. Именно поэтому нам трудно запомнить длинный [список](../../../5.2_cybersecurity/cpp_fundamentals/10_arrays.md) покупок или сложную инструкцию без [записи](../../../4.1_rules_of_study/how_to_learn_effectively/articles/note_taking.md).
+Главная проблема в [том](../../../7.1_art/musical_instruments/articles/drums.md), что **[кратковременная память](../../../1.2_natural_sciences/neurobiology_for_teens/articles/21_how_memory_works.md)** — это узкое горлышко. Мы можем удерживать в голове одновременно всего 7±2 элемента. Именно поэтому нам трудно [запомнить](../../../4.1_rules_of_study/how_to_memorize/articles/zapominanie.md) длинный [список](../../../5.2_cybersecurity/cpp_fundamentals/10_arrays.md) покупок или сложную инструкцию без [записи](../../../4.1_rules_of_study/how_to_learn_effectively/articles/note_taking.md).
 
 Интернет снимает это ограничение. Мы можем выгружать информацию наружу, освобождая мозг для творчества и анализа.
 
 ## Эффект Google: как поисковики изменили нашу [память](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sleep_and_memory_grades.md)
 
-В 2011 году психологи Бетси Спароу, Дженни Лю и Дэниел Вегнер провели знаменитый [эксперимент](../../../1.2_natural_sciences/physics_in_everyday_life/Q1293220.md). Участникам показывали утверждения и просили их запомнить. Одной группе сказали, что [информация](../../information and media literacy/как_устроена_современная_информационная_среда.md) сохранится в папке на компьютере, другой — что она исчезнет. [Результат](../../../1.2_natural_sciences/why_science_help_understand_world/experimental_science.md): те, кто думал, что информация сохранится, запоминали ее хуже.
+В 2011 году психологи Бетси Спароу, Дженни Лю и Дэниел Вегнер провели знаменитый [эксперимент](../../../1.2_natural_sciences/physics_in_everyday_life/Q1293220.md). Участникам показывали утверждения и просили их запомнить. Одной группе сказали, что [информация](../../information and media literacy/как_устроена_современная_информационная_среда.md) сохранится в папке на компьютере, другой — что она исчезнет. [Результат](../../../1.2_natural_sciences/why_science_help_understand_world/experimental_science.md): те, кто думал, что [информация](../../information and media literacy/как_устроена_современная_информационная_среда.md) сохранится, запоминали ее хуже.
 
 Этот [феномен](../../../../8.1_self_understanding/articles/history_of_impostor_syndrome.md) назвали **эффектом Google**. Наш мозг ленив (с точки зрения энергозатрат) и не тратит [ресурсы](../../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md) на [запоминание](../../../1.2_natural_sciences/neurobiology_for_teens/articles/21_how_memory_works.md) того, что всегда доступно.
 
@@ -40,9 +40,9 @@
 
 <!--- Важный нюанс: мы не стали глупее. Мы просто перераспределили ресурсы. --->
 
-## Транзактивная память: распределение знаний в группе
+## Транзактивная [память](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/sleep_and_memory_grades.md): распределение знаний в группе
 
-Концепцию транзактивной памяти предложил [психолог](../../../../8.1_self_understanding/articles/when_to_seek_help.md) Дэниел Вегнер в 1985 году. Он заметил, что в любых группах (семьях, рабочих коллективах, дружеских компаниях) люди распределяют между собой запоминание информации.
+Концепцию транзактивной памяти предложил [психолог](../../../../8.1_self_understanding/articles/when_to_seek_help.md) Дэниел Вегнер в 1985 году. Он заметил, что в любых группах (семьях, рабочих коллективах, дружеских компаниях) люди распределяют между собой [запоминание](../../../1.2_natural_sciences/neurobiology_for_teens/articles/21_how_memory_works.md) информации.
 
 **Классический пример семьи:**
 
@@ -74,25 +74,25 @@
 1. **Освобождение когнитивных ресурсов.** Мы не тратим энергию на хранение тонн фактов и можем направить ее на [решение](../../../2.1_society/cause_and_effect_relationships/articles/personal_choice.md) сложных задач, [творчество](../../../2.1_society/how_and_where_find_friends/articles/sam_sebe_interesnyi.md), [планирование](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/ideal_schedule_energy_management.md).
 2. **Доступность.** Любая информация доступна 24/7 из любой точки мира (где есть интернет).
 3. **Актуальность.** В отличие от заученных знаний, интернет-информацию можно постоянно обновлять. Если завтра изменятся [правила](../../../2.1_society/cause_and_effect_relationships/articles/why_rules_work.md) дорожного движения, вам не нужно переучивать учебник — вы просто найдете новую версию.
-4. **Объем.** Ни один человеческий мозг не способен хранить столько, сколько хранит интернет.
+4. **[Объем](../../../1.2_natural_sciences/physics_in_everyday_life/Q11435.md).** Ни один человеческий мозг не способен хранить столько, сколько хранит интернет.
 5. **Мгновенный [поиск](../../../3.2 healthy lifestyle/how to act in a dangerous situation/articles/lost-in-city.md).** Найти иголку в стоге сена в интернете можно за секунды благодаря поисковым алгоритмам.
 
-## Минусы и [риски](../../../7.2 Media, leisure and hobbies /useful_and_interesting_leisure/articles/safety_during_recreation.md) внешней памяти
+## Минусы и [риски](../../../7.2 Media, leisure and hobbies /useful_and_interesting_leisure/articles/safety_during_recreation.md) [внешней памяти](../../../4.2_thinking_and_working_information/how_to_search_information/articles/second_mind.md)
 
-1. **Цифровая амнезия.** Мы действительно перестаем [запоминать](../../../4.1_rules_of_study/how_to_memorize/articles/zapominanie.md) информацию. Исследования показывают, что люди хуже помнят [факты](../../../1.2_natural_sciences/physics_in_everyday_life/Q17737.md), если знают, что они есть в сети. Проблема в том, что интернет бывает недоступен (сломался телефон, нет связи), и тогда мы оказываемся беспомощными.
-2. **Поверхностное [усвоение](../../../4.1_rules_of_study/how_to_memorize/articles/zapominanie.md).** Чтобы информация из кратковременной памяти перешла в долговременную, нужно время на ее [осмысление](../../../7.2 Media, leisure and hobbies /what_you_can_read_and_watch_to_develop_your_taste/articles/thinking_and_taste.md) и [повторение](../../../4.1_rules_of_study/how_to_memorize/articles/povtorenie.md). Когда мы сразу сохраняем ссылку, этого не происходит. Знания остаются чужими, не присвоенными.
+1. **Цифровая амнезия.** Мы действительно перестаем [запоминать](../../../4.1_rules_of_study/how_to_memorize/articles/zapominanie.md) информацию. Исследования показывают, что люди хуже помнят [факты](../../../1.2_natural_sciences/physics_in_everyday_life/Q17737.md), если знают, что они есть в сети. Проблема в [том](../../../7.1_art/musical_instruments/articles/drums.md), что интернет бывает недоступен (сломался телефон, нет связи), и тогда мы оказываемся беспомощными.
+2. **Поверхностное [усвоение](../../../4.1_rules_of_study/how_to_memorize/articles/zapominanie.md).** Чтобы информация из кратковременной памяти перешла в долговременную, нужно [время](../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md) на ее [осмысление](../../../7.2 Media, leisure and hobbies /what_you_can_read_and_watch_to_develop_your_taste/articles/thinking_and_taste.md) и [повторение](../../../4.1_rules_of_study/how_to_memorize/articles/povtorenie.md). Когда мы сразу сохраняем ссылку, этого не происходит. Знания остаются чужими, не присвоенными.
 3. **[Зависимость](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/the_energy_trap.md).** Многие люди испытывают настоящую панику, если оказываются без доступа к сети. Это напоминает ломку у наркоманов. Мы теряем [навык](../../information and media literacy/карта_компетенций_по_возрастам.md) думать самостоятельно, полагаясь на готовые ответы.
-4. **Искажения.** Поисковики выдают не всю информацию, а ту, которая соответствует алгоритмам и рекламным приоритетам. Мы попадаем в зависимость от корпораций, которые решают, что нам показывать.
+4. **Искажения.** Поисковики выдают не всю информацию, а ту, которая соответствует алгоритмам и рекламным приоритетам. Мы попадаем в [зависимость](../../../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/the_energy_trap.md) от корпораций, которые решают, что нам показывать.
 
 ## Примеры из жизни
 
 **Ситуация 1: Подготовка к докладу.**
 Раньше: нужно было идти в библиотеку, заказывать [книги](../../../7.2 Media, leisure and hobbies /useful_and_interesting_leisure/articles/reading_and_self_education.md), сидеть в читальном зале, выписывать цитаты от руки. На один доклад уходила неделя.
-Сейчас: открываем [Wikipedia](../../../4.2_thinking_and_working_information/how_to_search_information/articles/wikipedia.md), смотрим ссылки внизу статьи, копируем ключевые факты, вставляем в презентацию. Доклад готов за час.
+Сейчас: открываем [Wikipedia](../../../4.2_thinking_and_working_information/how_to_search_information/articles/wikipedia.md), смотрим ссылки внизу статьи, копируем ключевые [факты](../../../1.2_natural_sciences/physics_in_everyday_life/Q17737.md), вставляем в презентацию. Доклад готов за час.
 Вопрос: [качество](../../../6.1_Independent_living_and_daily_living_skills/reasonable_spending/articles/quality.md) знаний? В первом случае информация проходила через мозг и осмыслялась. Во втором — осталась на экране.
 
 **Ситуация 2: [Потеря](../../../1.2_natural_sciences/neurobiology_for_teens/articles/20_sadness.md) телефона.**
-Сколько номеров телефонов вы помните наизусть? Ваших родителей? Лучшего друга? Скорой помощи? Большинство людей сегодня не помнят даже свой собственный номер. Потеря телефона означает потерю всей записной книжки. Раньше люди помнили десятки номеров — просто потому, что не было другого выхода.
+Сколько номеров телефонов вы помните наизусть? Ваших родителей? Лучшего друга? Скорой помощи? Большинство людей сегодня не помнят даже свой собственный номер. [Потеря](../../../1.2_natural_sciences/neurobiology_for_teens/articles/20_sadness.md) телефона означает потерю всей записной книжки. Раньше люди помнили десятки номеров — просто потому, что не было другого выхода.
 
 **Ситуация 3: Дорога в новом районе.**
 Раньше люди запоминали маршруты, ориентиры, названия улиц. Сейчас мы просто включаем навигатор и слушаем "через 300 метров поверните направо". Когда навигатор отключается, мы теряемся, потому что мозг не запоминал дорогу — он доверился внешнему устройству.
@@ -103,22 +103,22 @@
 
 Средний пользователь смартфона проверяет свой телефон 96 раз в день — это каждые 10 минут в [период](../../../1.2_natural_sciences/physics_in_everyday_life/Q11652.md) бодрствования.
 
-В 2019 году компания Kaspersky провела опрос: 44% респондентов признались, что не помнят номера телефонов своих детей, потому что они сохранены в контактах.
+В 2019 году компания Kaspersky провела [опрос](../../../1.2_natural_sciences/math_in_life/articles/08_statistics.md): 44% респондентов признались, что не помнят номера телефонов своих детей, потому что они сохранены в контактах.
 
 [Исследование](../../../1.2_natural_sciences/neurobiology_for_teens/articles/19_curiosity.md) 2015 года показало, что студенты, которые делали конспекты от руки, запоминали [материал](../../../1.2_natural_sciences/physics_in_everyday_life/Q25358.md) лучше, чем те, кто печатал на ноутбуке. [Причина](../../../2.1_society/cause_and_effect_relationships/articles/causality_base.md): при письме от руки мозг вынужден перерабатывать информацию, а не просто копировать её.
 
-До изобретения письменности древнегреческие ораторы могли запоминать речи длиной в несколько часов. Сократ предупреждал, что письменность ослабит память — и он оказался прав.
+До изобретения письменности древнегреческие ораторы могли [запоминать](../../../4.1_rules_of_study/how_to_memorize/articles/zapominanie.md) речи длиной в несколько часов. Сократ предупреждал, что письменность ослабит память — и он оказался прав.
 
 ---
 
 ## Смотри также
 
 - [Трансформация мышления: как интернет меняет наши когнитивные способности](4-internet_thinking_transformation.md) — как вместе с [памятью](../../../4.1_rules_of_study/how_to_memorize/articles/pamyat.md) меняются [внимание](../../../1.2_natural_sciences/neurobiology_for_teens/articles/16_love_chemistry.md), [чтение](../../../4.1_rules_of_study/how_to_learn_effectively/articles/reading_skills.md) и способ обработки информации
-- [Коллективный интеллект: как миллионы умов создают общее знание](4-internet_collective_intelligence.md) — Wikipedia, Stack Overflow и другие примеры коллективной «внешней памяти» человечества
+- [Коллективный интеллект: как миллионы умов создают общее знание](4-internet_collective_intelligence.md) — [Wikipedia](../../../4.2_thinking_and_working_information/how_to_search_information/articles/wikipedia.md), Stack Overflow и другие примеры коллективной «внешней памяти» человечества
 - [Сокращение внимания: почему мозг устаёт и «просит новое»](1-Сокращение_внимания_почему_мозг_устает.md) — как постоянные переключения влияют на запоминание и [работу](../../../8.2_future/choosing_a_career_path/articles/interview.md) мозга
 - [Как работают рекомендации: от клика до «умной» ленты](2-Как%работают%рекомендации.md) — [алгоритмы](../../../4.2_thinking_and_working_information/how_to_search_information/articles/buble_filter.md), которые решают, какую информацию мы увидим и запомним
 
 ---
 
 Авторы: Дэниз Махмутов, @modestaq;
-Ресурсы: [LLM](../../../7.1_art/modern_technological_art/README.md) - DeepSeek, [ChatGPT](../../../7.1_art/modern_technological_art/articles/6.1_prompt_art.md), Claude, Gemini
+[Ресурсы](../../../2.1_society/cause_and_effect_relationships/articles/ecological_footprint.md): [LLM](../../../7.1_art/modern_technological_art/README.md) - DeepSeek, [ChatGPT](../../../7.1_art/modern_technological_art/articles/6.1_prompt_art.md), Claude, Gemini

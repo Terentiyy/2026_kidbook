@@ -4,7 +4,7 @@
 
 [Интернет](../../../1.2_natural_sciences/physics_in_everyday_life/Q26540.md) — это не просто склад данных, это живая, дышащая система, которую ежесекундно создают и обновляют миллионы людей по всему миру. Каждый пост в блоге, каждый комментарий на форуме, каждая правка в [Wikipedia](../../../4.2_thinking_and_working_information/how_to_search_information/articles/wikipedia.md) — это кирпичик в здании общечеловеческого знания.
 
-## Что такое коллективный интеллект
+## Что такое коллективный [интеллект](../../../2.1_society/cause_and_effect_relationships/articles/critical_thinking_in_education.md)
 
 Термин "коллективный интеллект" ввел [исследователь](../../../1.2_natural_sciences/why_science_help_understand_world/experiment.md) Пьер Леви в 1990-х годах. Он определил его как "способность человеческих групп сотрудничать в интеллектуальной деятельности". Проще говоря, это когда много людей вместе думают лучше, чем один самый умный [человек](../../../1.2_natural_sciences/physics_in_everyday_life/Q45003.md).
 
@@ -14,42 +14,42 @@
 |:---------|:--------|:--------------|
 | Микро | [Семья](../../information and media literacy/семейные_правила_потребления_контента.md), школьный класс | Люди знают друг друга лично, распределяют роли |
 | Мезо | [Город](../../../3.2 healthy lifestyle/how to act in a dangerous situation/articles/lost-in-city.md), [профессиональное сообщество](../../../../8.1_self_understanding/articles/mentorship.md) | Люди не знают всех, но есть общие [правила](../../../2.1_society/cause_and_effect_relationships/articles/why_rules_work.md) и [цели](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/02_celi_pervoy_pomoshchi.md) |
-| Макро | Интернет, всё человечество | Анонимное [взаимодействие](../../../1.2_natural_sciences/physics_in_everyday_life/Q128030.md) через платформы |
+| Макро | [Интернет](../../../1.2_natural_sciences/physics_in_everyday_life/Q26540.md), всё человечество | Анонимное [взаимодействие](../../../1.2_natural_sciences/physics_in_everyday_life/Q128030.md) через платформы |
 
 ![](../images/image-1.png)
 
 ## Примеры коллективного интеллекта в интернете
 
-### 1. Wikipedia — [энциклопедия](../../../4.2_thinking_and_working_information/how_to_search_information/articles/wikipedia.md), которую может править каждый
+### 1. [Wikipedia](../../../4.2_thinking_and_working_information/how_to_search_information/articles/wikipedia.md) — [энциклопедия](../../../4.2_thinking_and_working_information/how_to_search_information/articles/wikipedia.md), которую может править каждый
 
 Запущенная в 2001 году, Wikipedia стала крупнейшим собранием знаний в истории человечества. На сегодняшний день в ней более 60 миллионов статей на сотнях языков.
 
 **Как это работает:**
 
-* Любой человек может создать или отредактировать статью.
+* Любой [человек](../../../1.2_natural_sciences/physics_in_everyday_life/Q45003.md) может создать или отредактировать статью.
 * [Сообщество](../../../2.1_society/how_and_where_find_friends/articles/druzhba_s_sosedyami.md) добровольцев следит за изменениями и откатывает вандализм.
 * Статьи обсуждаются на страницах обсуждения.
 * Действует [правило](../../../1.2_natural_sciences/why_science_help_understand_world/patterns.md) "нейтральной точки зрения" — все значимые точки зрения должны быть представлены.
 * Каждый [факт](../../../1.2_natural_sciences/why_science_help_understand_world/science.md) должен подтверждаться ссылкой на авторитетный [источник](../../information and media literacy/дезинформация_и_фейки.md).
 
-**Интересный факт:** исследования показывают, что Wikipedia по точности сравнима с Британникой (традиционной авторитетнейшей энциклопедией), а по актуальности — превосходит её многократно. Новости попадают в Wikipedia через [часы](../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md), а в бумажные энциклопедии — через годы.
+**Интересный [факт](../../../1.2_natural_sciences/why_science_help_understand_world/science.md):** исследования показывают, что Wikipedia по точности сравнима с Британникой (традиционной авторитетнейшей энциклопедией), а по актуальности — превосходит её многократно. Новости попадают в Wikipedia через [часы](../../../1.2_natural_sciences/physics_in_everyday_life/Q20702.md), а в бумажные энциклопедии — через годы.
 
 ### 2. Stack Overflow — [база](../../../1.2_natural_sciences/physics_in_everyday_life/Q5339.md) знаний программистов
 
-Это сайт, где программисты задают [вопросы](../../../4.1_rules_of_study/how_to_learn_effectively/articles/curiosity.md) и отвечают на них. Каждый вопрос может получить несколько ответов, сообщество голосует за лучшие.
+Это сайт, где программисты задают [вопросы](../../../4.1_rules_of_study/how_to_learn_effectively/articles/curiosity.md) и отвечают на них. Каждый вопрос может получить несколько ответов, [сообщество](../../../1.1_ustroystvo_mira/zemlya_priroda_i_klimat/articles/ecosystem.md) голосует за лучшие.
 
 **[Принципы](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/02_celi_pervoy_pomoshchi.md) [работы](../../../8.2_future/choosing_a_career_path/articles/interview.md):**
 
 * [Репутация](../../../2.1_society/cause_and_effect_relationships/articles/trust_predictability.md) пользователей растет за полезные ответы.
 * Модераторы следят за порядком и удаляют мусор.
-* Вопросы группируются по тегам (языкам программирования, технологиям).
+* [Вопросы](../../../4.1_rules_of_study/how_to_learn_effectively/articles/curiosity.md) группируются по тегам (языкам программирования, технологиям).
 * Запрещено задавать вопросы, на которые уже есть ответы ([поиск](../../../3.2 healthy lifestyle/how to act in a dangerous situation/articles/lost-in-city.md) работает жестко).
 
-**[Результат](../../../1.2_natural_sciences/why_science_help_understand_world/experimental_science.md):** огромная база готовых решений. Любой [программист](../../../8.2_future/choosing_a_career_path/articles/programmer.md) сначала ищет ошибку на Stack Overflow, и в 90% случаев она уже там описана.
+**[Результат](../../../1.2_natural_sciences/why_science_help_understand_world/experimental_science.md):** огромная [база](../../../1.2_natural_sciences/physics_in_everyday_life/Q5339.md) готовых решений. Любой [программист](../../../8.2_future/choosing_a_career_path/articles/programmer.md) сначала ищет ошибку на Stack Overflow, и в 90% случаев она уже там описана.
 
 <!--- Stack Overflow — идеальный пример того, как коллективный разум работает эффективнее индивидуального. --->
 
-### 3. OpenStreetMap — карты мира, нарисованные людьми
+### 3. OpenStreetMap — [карты](../../../1.2_natural_sciences/math_in_life/articles/03_coordinates.md) мира, нарисованные людьми
 
 В отличие от Google Maps, которые создаются профессиональными картографами, OpenStreetMap рисуют обычные люди. Каждый может добавить тропинку в своем районе, отметить новый магазин или пешеходный переход.
 
@@ -70,17 +70,17 @@
 * Лекции университетов (выкладываются официально и неофициально).
 * Научно-популярные каналы (сложные темы объясняются доступно).
 * [Комментарии](../../../4.2_thinking_and_working_information/how_to_search_information/articles/cooperative_work.md) (часто в комментариях дополняют и исправляют авторов).
-* Плейлисты (пользователи собирают подборки видео по темам).
+* Плейлисты (пользователи собирают подборки [видео](../../information and media literacy/оценка_качества_изображений_и_видео.md) по темам).
 
 ## Мудрость толпы: условия и ограничения
 
-Феномен "мудрости толпы" открыл Фрэнсис Гальтон в 1906 году. На ярмарке он предложил людям угадать [вес](../../../1.2_natural_sciences/physics_in_everyday_life/Q11023.md) быка. Индивидуальные ответы сильно различались, но среднее арифметическое всех ответов оказалось почти точным.
+[Феномен](../../../../8.1_self_understanding/articles/history_of_impostor_syndrome.md) "мудрости толпы" открыл Фрэнсис Гальтон в 1906 году. На ярмарке он предложил людям угадать [вес](../../../1.2_natural_sciences/physics_in_everyday_life/Q11023.md) быка. Индивидуальные ответы сильно различались, но [среднее](../../../1.2_natural_sciences/math_in_life/articles/08_statistics.md) арифметическое всех ответов оказалось почти точным.
 
 **Условия для мудрости толпы:**
 
 1. **Разнообразие мнений.** Люди должны смотреть на проблему с разных сторон.
 2. **Независимость.** Мнения не должны влиять друг на друга.
-3. **Децентрализация.** Люди используют свое локальное знание.
+3. **Децентрализация.** Люди используют свое локальное [знание](../../../1.2_natural_sciences/why_science_help_understand_world/science.md).
 4. **Агрегация.** Должен быть механизм сбора и усреднения ответов.
 
 В интернете эти условия работают, но есть серьезные проблемы.
@@ -111,25 +111,25 @@
 
 **[Методы](../../../4.1_rules_of_study/how_to_learn_effectively/articles/note_taking.md) проверки информации:**
 
-1. **Правило трех источников.** Нашел интересный факт? Найди еще два независимых источника, которые его подтверждают. Если информация только в одном месте — скорее всего, это [фейк](../../../2.1_society/cause_and_effect_relationships/articles/false_connections.md).
-2. **[Проверка](../../../1.2_natural_sciences/why_science_help_understand_world/scientific_method.md) автора.** Кто написал [текст](../../../4.1_rules_of_study/how_to_learn_effectively/articles/reading_skills.md)? Реальный [эксперт](../../../../8.1_self_understanding/articles/types_of_impostor_syndrome.md), журналист, блогер или аноним? Есть ли у него репутация?
-3. **Проверка даты.** Информация могла устареть. То, что было правдой в 2010 году, сегодня может быть ложью.
-4. **Поиск [первоисточника](../../../../4.2/how_to_search_information/articles/original_source.md).** Новостные сайты часто перевирают [факты](../../../1.2_natural_sciences/physics_in_everyday_life/Q17737.md). Найди оригинал исследования, официальный документ, прямое видео.
-5. **Критическое отношение к заголовкам.** Заголовки пишут, чтобы привлечь [внимание](../../../1.2_natural_sciences/neurobiology_for_teens/articles/16_love_chemistry.md). Прочитай текст целиком, прежде чем верить.
+1. **[Правило](../../../1.2_natural_sciences/why_science_help_understand_world/patterns.md) трех источников.** Нашел интересный факт? Найди еще два независимых источника, которые его подтверждают. Если [информация](../../information and media literacy/как_устроена_современная_информационная_среда.md) только в одном месте — скорее всего, это [фейк](../../../2.1_society/cause_and_effect_relationships/articles/false_connections.md).
+2. **[Проверка](../../../1.2_natural_sciences/why_science_help_understand_world/scientific_method.md) автора.** Кто написал [текст](../../../4.1_rules_of_study/how_to_learn_effectively/articles/reading_skills.md)? Реальный [эксперт](../../../../8.1_self_understanding/articles/types_of_impostor_syndrome.md), журналист, блогер или аноним? Есть ли у него [репутация](../../../2.1_society/cause_and_effect_relationships/articles/trust_predictability.md)?
+3. **[Проверка](../../../1.2_natural_sciences/why_science_help_understand_world/scientific_method.md) даты.** Информация могла устареть. То, что было правдой в 2010 году, сегодня может быть ложью.
+4. **[Поиск](../../../3.2 healthy lifestyle/how to act in a dangerous situation/articles/lost-in-city.md) [первоисточника](../../../../4.2/how_to_search_information/articles/original_source.md).** Новостные сайты часто перевирают [факты](../../../1.2_natural_sciences/physics_in_everyday_life/Q17737.md). Найди оригинал исследования, официальный документ, прямое видео.
+5. **Критическое отношение к заголовкам.** Заголовки пишут, чтобы привлечь [внимание](../../../1.2_natural_sciences/neurobiology_for_teens/articles/16_love_chemistry.md). Прочитай [текст](../../../4.1_rules_of_study/how_to_learn_effectively/articles/reading_skills.md) целиком, прежде чем верить.
 
 ## [Будущее](../../../1.2_natural_sciences/physics_in_everyday_life/Q11469.md) коллективного интеллекта
 
-Ученые работают над тем, чтобы объединить людей и [искусственный интеллект](../../../1.2_natural_sciences/physics_in_everyday_life/Q11023.md) в единые системы. Представьте: вы задаете вопрос, и система собирает ответы от тысяч экспертов, анализирует их, проверяет на противоречия и выдает взвешенный результат. Это следующий уровень коллективного разума.
+Ученые работают над тем, чтобы объединить людей и [искусственный интеллект](../../../1.2_natural_sciences/physics_in_everyday_life/Q11023.md) в единые системы. Представьте: вы задаете вопрос, и система собирает ответы от тысяч экспертов, анализирует их, проверяет на противоречия и выдает взвешенный [результат](../../../1.2_natural_sciences/why_science_help_understand_world/experimental_science.md). Это следующий [уровень](../../../../8.1_entertainment/articles/gamification.md) коллективного разума.
 
-## Интересные факты
+## Интересные [факты](../../../1.2_natural_sciences/physics_in_everyday_life/Q17737.md)
 
-Wikipedia содержит более 60 миллионов статей на 300+ языках. Если бы её распечатать, получилось бы около 20 000 томов — в 40 раз больше, чем Британская энциклопедия.
+Wikipedia содержит более 60 миллионов статей на 300+ языках. Если бы её распечатать, получилось бы около 20 000 томов — в 40 раз больше, чем Британская [энциклопедия](../../../4.2_thinking_and_working_information/how_to_search_information/articles/wikipedia.md).
 
 На Stack Overflow задано более 23 миллионов вопросов, и 74% из них имеют принятый [ответ](../../how_internet_works/articles/http_https/http_https.md). Сайт посещают более 100 миллионов человек ежемесячно.
 
 OpenStreetMap содержит [данные](../../../2.1_society/cause_and_effect_relationships/articles/ai_causality.md) о более чем 8 миллиардах объектов, созданных 10 миллионами участников. В некоторых регионах карты OSM детальнее, чем у Google.
 
-[Эксперимент](../../../1.2_natural_sciences/physics_in_everyday_life/Q1293220.md) Фрэнсиса Гальтона 1906 года с угадыванием веса быка показал: среднее арифметическое 787 ответов было 1197 фунтов, а реальный вес — 1198 фунтов. [Ошибка](../../how_internet_works/articles/http_https/http_https.md) всего 0,08%.
+[Эксперимент](../../../1.2_natural_sciences/physics_in_everyday_life/Q1293220.md) Фрэнсиса Гальтона 1906 года с угадыванием веса быка показал: среднее арифметическое 787 ответов было 1197 фунтов, а реальный [вес](../../../1.2_natural_sciences/physics_in_everyday_life/Q11023.md) — 1198 фунтов. [Ошибка](../../how_internet_works/articles/http_https/http_https.md) всего 0,08%.
 
 В 2010 году пользователи Reddit за 72 часа собрали $600 000 для учителя, которому нужны были [деньги](../../../2.1_society/cause_and_effect_relationships/articles/economic_chains.md) на операцию. Это пример коллективного [действия](../../../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/03_obschie_pravila_algorithm.md), организованного через интернет.
 
