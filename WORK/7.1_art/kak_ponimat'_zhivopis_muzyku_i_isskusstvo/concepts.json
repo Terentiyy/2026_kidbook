@@ -1,0 +1,142 @@
+{
+  "section": "Как понимать живопись, музыку и литературу",
+  "section_id": "art_understanding",
+  "author": "Соня",
+  "concepts": [
+    {
+      "id": "zhivopis",
+      "title": "Живопись",
+      "slug": "zhivopis",
+      "file": "KIDBOOK/art_understanding/zhivopis.md",
+      "domain": "Изобразительное искусство",
+      "wikidata_id": "Q11629",
+      "keywords": ["живопись", "живописи", "живописью", "живописного", "живописная"]
+    },
+    {
+      "id": "kartina",
+      "title": "Картина",
+      "slug": "kartina",
+      "file": "KIDBOOK/art_understanding/kartina.md",
+      "domain": "Изобразительное искусство",
+      "wikidata_id": "Q3305213",
+      "keywords": ["картина", "картины", "картину", "картине", "картин", "картиной"]
+    },
+    {
+      "id": "zhanr_zhivopisi",
+      "title": "Жанр живописи",
+      "slug": "zhanr_zhivopisi",
+      "file": "KIDBOOK/art_understanding/zhanr_zhivopisi.md",
+      "domain": "Изобразительное искусство",
+      "wikidata_id": "Q1792379",
+      "keywords": ["жанр живописи", "жанры живописи", "жанре живописи", "жанра живописи"]
+    },
+    {
+      "id": "tsvet_i_kompozitsiya",
+      "title": "Цвет и композиция",
+      "slug": "tsvet_i_kompozitsiya",
+      "file": "KIDBOOK/art_understanding/tsvet_i_kompozitsiya.md",
+      "domain": "Изобразительное искусство",
+      "wikidata_id": "Q1075",
+      "keywords": ["цвет", "цвета", "цвету", "цветом", "цвете", "цветовой", "композиция", "композиции", "композицию", "композицией"]
+    },
+    {
+      "id": "khudozhnik",
+      "title": "Художник",
+      "slug": "khudozhnik",
+      "file": "KIDBOOK/art_understanding/khudozhnik.md",
+      "domain": "Изобразительное искусство",
+      "wikidata_id": "Q1028181",
+      "keywords": ["художник", "художника", "художнику", "художником", "художники", "художников", "художниках"]
+    },
+    {
+      "id": "muzyka",
+      "title": "Музыка",
+      "slug": "muzyka",
+      "file": "KIDBOOK/art_understanding/muzyka.md",
+      "domain": "Музыкальное искусство",
+      "wikidata_id": "Q638",
+      "keywords": ["музыка", "музыки", "музыку", "музыке", "музыкой", "музыкальный", "музыкальная", "музыкальное", "музыкальной"]
+    },
+    {
+      "id": "melodiya",
+      "title": "Мелодия",
+      "slug": "melodiya",
+      "file": "KIDBOOK/art_understanding/melodiya.md",
+      "domain": "Музыкальное искусство",
+      "wikidata_id": "Q207628",
+      "keywords": ["мелодия", "мелодии", "мелодию", "мелодией", "мелодичный", "мелодичная"]
+    },
+    {
+      "id": "muzykalny_instrument",
+      "title": "Музыкальный инструмент",
+      "slug": "muzykalny_instrument",
+      "file": "KIDBOOK/art_understanding/muzykalny_instrument.md",
+      "domain": "Музыкальное искусство",
+      "wikidata_id": "Q34379",
+      "keywords": ["музыкальный инструмент", "музыкального инструмента", "музыкальному инструменту", "музыкальные инструменты", "музыкальных инструментов", "инструмент", "инструменты", "инструментов"]
+    },
+    {
+      "id": "zhanr_muzyki",
+      "title": "Жанр музыки",
+      "slug": "zhanr_muzyki",
+      "file": "KIDBOOK/art_understanding/zhanr_muzyki.md",
+      "domain": "Музыкальное искусство",
+      "wikidata_id": "Q483394",
+      "keywords": ["жанр музыки", "жанры музыки", "музыкальный жанр", "музыкальные жанры", "музыкального жанра"]
+    },
+    {
+      "id": "kompozitor",
+      "title": "Композитор",
+      "slug": "kompozitor",
+      "file": "KIDBOOK/art_understanding/kompozitor.md",
+      "domain": "Музыкальное искусство",
+      "wikidata_id": "Q36834",
+      "keywords": ["композитор", "композитора", "композитору", "композитором", "композиторы", "композиторов", "композиторах"]
+    },
+    {
+      "id": "literatura",
+      "title": "Литература",
+      "slug": "literatura",
+      "file": "KIDBOOK/art_understanding/literatura.md",
+      "domain": "Словесное искусство",
+      "wikidata_id": "Q8242",
+      "keywords": ["литература", "литературы", "литературу", "литературе", "литературой", "литературный", "литературная", "литературное"]
+    },
+    {
+      "id": "kniga",
+      "title": "Книга",
+      "slug": "kniga",
+      "file": "KIDBOOK/art_understanding/kniga.md",
+      "domain": "Словесное искусство",
+      "wikidata_id": "Q571",
+      "keywords": ["книга", "книги", "книгу", "книге", "книгой", "книг", "книгах"]
+    },
+    {
+      "id": "zhanr_literatury",
+      "title": "Жанр литературы",
+      "slug": "zhanr_literatury",
+      "file": "KIDBOOK/art_understanding/zhanr_literatury.md",
+      "domain": "Словесное искусство",
+      "wikidata_id": "Q223393",
+      "keywords": ["жанр литературы", "жанры литературы", "литературный жанр", "литературные жанры", "литературного жанра"]
+    },
+    {
+      "id": "geroj_proizvedeniya",
+      "title": "Герой произведения",
+      "slug": "geroj_proizvedeniya",
+      "file": "KIDBOOK/art_understanding/geroj_proizvedeniya.md",
+      "domain": "Словесное искусство",
+      "wikidata_id": "Q15773347",
+      "keywords": ["герой", "героя", "герою", "героем", "герои", "героев", "героях", "персонаж", "персонажа", "персонажу", "персонажем", "персонажи", "персонажей"]
+    },
+    {
+      "id": "pisatel",
+      "title": "Писатель",
+      "slug": "pisatel",
+      "file": "KIDBOOK/art_understanding/pisatel.md",
+      "domain": "Словесное искусство",
+      "wikidata_id": "Q36180",
+      "keywords": ["писатель", "писателя", "писателю", "писателем", "писатели", "писателей", "писателях"]
+    }
+  ]
+}
